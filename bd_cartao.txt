@@ -1,0 +1,20 @@
+Nome: Stephanie Oliveira Da Rocha
+Numero do Cartao: 1
+Caracteristica: Inteligente e Bonita
+Valor: 21412.12
+Nome: Daniel Lopes Pinto
+Numero do Cartao: 2
+Caracteristica: Burro e Babaca
+Valor: 1.11
+Nome: Danilo Leone Di Paolo Martinelli Silva
+Numero do Cartao: 3
+Caracteristica: Inteligente e Gato
+Valor: 1423534592.00
+Nome: Jessica Alves
+Numero do Cartao: 4
+Caracteristica: Puta e Piranha
+Valor: 213123.42
+Nome: Kleiton Santos
+Numero do Cartao: 5
+Caracteristica: Burro e Vagal
+Valor: 434234.31
